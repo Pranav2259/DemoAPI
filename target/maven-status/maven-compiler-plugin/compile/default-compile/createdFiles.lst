@@ -1,0 +1,5 @@
+com\Demo\TaskTracker\Task.class
+com\Demo\TaskTracker\TaskController.class
+com\Demo\TaskTracker\TaskRepository.class
+com\Demo\TaskTracker\demoRepository.class
+com\Demo\TaskTracker\MyResource.class
