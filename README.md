@@ -1,10 +1,27 @@
-# DemoAPI
-Task Tracker API with PostgreSQL Backend
-I created this API using the JAVA Jersey project over Maven and used Postgre SQL as Database.
+# TASKTRACKER API
+## Description
 
-# REST API
-The REST API for the example app is described below.
+Developed a robust TaskTracker API using Java, Jersey, and Maven, seamlessly integrated with a PostgreSQL database. This API allows efficient management of tasks by providing endpoints for resource retrieval, creation, updating, and deletion.
 
+## Tech Used
+
+Java, Jersey, Maven, PostgreSQL, RESTful API
+
+## Key Features
+
+Resource Management: Implemented a RESTful API structure to handle tasks, enabling users to perform CRUD (Create, Read, Update, Delete) operations.
+
+Database Connectivity: Leveraged PostgreSQL to persistently store task data, ensuring data integrity and retrieval efficiency.
+
+HTTP Methods: Utilized HTTP methods such as GET, POST, PUT, and DELETE to facilitate various operations on tasks.
+
+Jersey Framework: Employed the Jersey framework to develop API endpoints, enhancing code modularity and ease of maintenance.
+
+Maven Build: Managed project dependencies and builds using Maven, streamlining project setup and deployment.
+
+## OUTCOME
+
+The TaskTracker API offers a seamless solution for effective task management, enabling users to interact with tasks using standard HTTP methods. By integrating modern technologies and following best practices, the project showcases my proficiency in Java-based API development, database integration, and project management.
 
 ## Retrieve a list of all tasks.
 
